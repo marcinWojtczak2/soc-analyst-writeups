@@ -1,0 +1,73 @@
+2026-01-30 (FRIDAY): PHANTOMSTEALER INFECTION
+
+EMAIL INFORMATION:
+
+- Received: from mail.vescomto.com.my (103.217.93.56) by [information removed]; 
+  Fri, 30 Jan 2026 05:23:00 +0000
+- From: export <transportcsd@vescomto.com.my>
+- Subject: PAYMENT
+- Date: Fri, 30 Jan 2026 03:30:41 +0000
+- Attachment file name: SwiftCopyDetails_1-30-2026.rar
+
+ATTACHMENT AND EXTRACTED FILE:
+
+- SHA256 hash: a5952e45646d033bff8380fc508a0b9527bb4943f2788046005f0e80e6ebb290
+- File size: 676 bytes
+- File type: RAR archive data, v5
+- File name: SwiftCopyDetails_1-30-2026.rar
+- File description: Email attachment, a RAR archive
+
+- SHA256 hash: e263e41c5adb36fd21a26656f2478cbf5140846e872fd70c53341a71fb3d64f5
+- File size: 1,082,684 bytes
+- File type: Unicode text, UTF-8 text, with CRLF line terminators
+- File name: SwiftCopyDetails_1-30-2026.js
+- File description: Script file extracted from the above RAR archive
+
+DATE/TIME OF THE INFECTION:
+
+- 2026-01-30 20:21:06 UTC
+
+INFECTION TRAFFIC:
+
+- http://scxzswx.lovestoblog.com/arquivo_20260129190545.txt
+- https://res.cloudinary.com/dxxyxpqxg/image/upload/v1769187753/optimized_MSI_nthgyz.jpg
+- http://scxzswx.lovestoblog.com/arquivo_20260129190534.txt
+- http://icanhazip.com/
+- exczx.com - encrypted SMTP traffic over TCP port 587 (PhantomStealer)
+
+ASSOCIATED FILES:
+
+- SHA256 hash: ccba027446f898e9c330e570ec4d9a0bd4eb3d6b9f89ce49f6108a3a18e937f0
+- File size: 8,263,689 bytes
+- File type: Unicode text, UTF-8 text, with CRLF line terminators
+- File location: http://scxzswx.lovestoblog.com/arquivo_20260129190545.txt
+- File description: script initially retrieved when running .js file from the attachment
+
+- SHA256 hash: 3f4c3c16f63fb90d1fd64b031d8a9803035f3cb18332e198850896881fb42fe5
+- File size: 1,969,672 bytes
+- File type: JPEG image data, progressive, precision 8, 3840x2160, components 3
+- File location: https://res.cloudinary.com/dxxyxpqxg/image/upload/v1769187753/optimized_MSI_nthgyz.jpg
+- File description: Image retreived by script from arquivo_20260129190545.txt
+- Note: Image has embedded base64 text
+
+- SHA256 hash: 4140d26ecad2fd8a3ea326ee49f5dd8bda3696e0d1ae6e756db6d61d70bf3af4
+- File size: 434,176 bytes
+- File type: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+- File description: DLL converted from embedded base64 text in above optimized_MSI_nthgyz.jpg image file
+
+- SHA256 hash: d9c88c1a21fc918ce8082e3c71e47e8b7e694b6b1fab0d94693bba1ddc13e693
+- File size: 999,424 bytes
+- File type: ASCII text, with very long lines (65536), with no line terminators
+- File location: http://scxzswx.lovestoblog.com/arquivo_20260129190534.txt
+- File description: Reversed Base64 text that represents EXE file for PhantomStealer
+
+- SHA256 hash: 5c941eece2fdabe48633fb0e4a66daa7b6cecc66f59ad7c1cfa4ebc6c92f282b
+- File size: 749,568 bytes
+- File type: PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows
+- File description: Windows EXE for PhantomStealer converted from the above reversed base64 text
+- Sandbox analysis: https://tria.ge/251023-qjhwsadw6e (date: 2025-10-23)
+  -- PhantomStealer v3.5.0
+     -- Host: exczx.com
+     -- Username: fk_thai2@exczx.com
+     -- Password: at_I45@TzhxT=U},
+     -- Email To: fk_thai@exczx.com
